@@ -1,0 +1,101 @@
+WorkOrderID,DateOpened,Branch,Customer,Technician,EquipmentType,Priority,Status,HoursWorked,CompletionDate
+WO-1001,2026-07-21,Vernon,Summit Foods,Chris Johnson,Diesel Forklift,Low,Completed,5.9,2026-07-26
+WO-1002,2026-07-29,Penticton,ABC Logistics,Alex Chen,Electric Forklift,Medium,Completed,4.5,2026-08-02
+WO-1003,2026-07-01,Prince George,OK Cold Storage,Chris Johnson,Pallet Jack,Medium,Completed,7.0,2026-07-06
+WO-1004,2026-07-01,Kamloops,OK Cold Storage,Jamie Wilson,Reach Truck,High,In Progress,8.2,
+WO-1005,2026-07-11,Kelowna,Interior Building Supply,Jamie Wilson,Order Picker,Medium,Completed,0.8,2026-07-14
+WO-1006,2026-07-15,Kelowna,Mountain Equipment Depot,Morgan Lee,Order Picker,Low,Completed,3.4,2026-07-18
+WO-1007,2026-07-07,Kelowna,Summit Foods,Morgan Lee,Electric Forklift,Low,In Progress,7.4,
+WO-1008,2026-07-13,Vernon,Valley Produce,Jamie Wilson,Reach Truck,Medium,Completed,2.6,2026-07-18
+WO-1009,2026-07-30,Kelowna,Western Wholesale,Taylor Brown,Order Picker,Low,In Progress,1.8,
+WO-1010,2026-07-13,Prince George,Summit Foods,Jamie Wilson,Electric Forklift,Medium,Completed,0.8,2026-07-18
+WO-1011,2026-07-11,Kamloops,Western Wholesale,Jamie Wilson,Diesel Forklift,Medium,Completed,3.7,2026-07-11
+WO-1012,2026-07-30,Vernon,Valley Produce,Chris Johnson,Order Picker,Medium,Completed,6.5,2026-07-31
+WO-1013,2026-07-14,Penticton,Interior Building Supply,Chris Johnson,Diesel Forklift,Medium,Open,1.2,
+WO-1014,2026-07-02,Kamloops,Valley Produce,Cameron Davis,Order Picker,High,Open,3.6,
+WO-1015,2026-07-15,Kelowna,NorthStar Warehousing,Morgan Lee,Reach Truck,High,Completed,4.0,2026-07-19
+WO-1016,2026-07-15,Vernon,Mountain Equipment Depot,Taylor Brown,Order Picker,Low,Completed,7.5,2026-07-20
+WO-1017,2026-07-10,Prince George,Western Wholesale,Chris Johnson,Diesel Forklift,Medium,In Progress,1.8,
+WO-1018,2026-07-31,Prince George,ABC Logistics,Jamie Wilson,Pallet Jack,High,In Progress,7.9,
+WO-1019,2026-07-29,Vernon,Summit Foods,Alex Chen,Diesel Forklift,Low,Open,8.1,
+WO-1020,2026-07-03,Kelowna,Mountain Equipment Depot,Taylor Brown,Diesel Forklift,Medium,In Progress,8.1,
+WO-1021,2026-07-06,Penticton,Summit Foods,Chris Johnson,Reach Truck,Medium,Completed,5.9,2026-07-10
+WO-1022,2026-07-12,Penticton,NorthStar Warehousing,Chris Johnson,Diesel Forklift,High,Completed,0.7,2026-07-16
+WO-1023,2026-07-18,Kelowna,NorthStar Warehousing,Alex Chen,Diesel Forklift,High,Completed,0.8,2026-07-19
+WO-1024,2026-07-11,Vernon,Evergreen Manufacturing,Chris Johnson,Order Picker,High,Completed,8.0,2026-07-12
+WO-1025,2026-07-19,Penticton,OK Cold Storage,Chris Johnson,Electric Forklift,High,Completed,3.9,2026-07-20
+WO-1026,2026-07-14,Kelowna,NorthStar Warehousing,Alex Chen,Pallet Jack,Low,Completed,6.9,2026-07-19
+WO-1027,2026-07-04,Prince George,Evergreen Manufacturing,Taylor Brown,Pallet Jack,High,Completed,4.2,2026-07-05
+WO-1028,2026-07-28,Penticton,Mountain Equipment Depot,Jordan Smith,Electric Forklift,Medium,Open,4.8,
+WO-1029,2026-07-01,Kamloops,Valley Produce,Cameron Davis,Pallet Jack,Medium,Open,7.4,
+WO-1030,2026-07-29,Kelowna,OK Cold Storage,Morgan Lee,Pallet Jack,Medium,Completed,6.1,2026-08-01
+WO-1031,2026-07-24,Prince George,Evergreen Manufacturing,Taylor Brown,Diesel Forklift,Medium,Open,8.2,
+WO-1032,2026-07-19,Kelowna,Interior Building Supply,Alex Chen,Electric Forklift,Medium,In Progress,4.5,
+WO-1033,2026-07-28,Prince George,NorthStar Warehousing,Taylor Brown,Electric Forklift,Medium,Completed,5.9,2026-07-28
+WO-1034,2026-07-08,Kamloops,Western Wholesale,Alex Chen,Order Picker,High,Completed,5.8,2026-07-12
+WO-1035,2026-07-19,Kamloops,Interior Building Supply,Chris Johnson,Reach Truck,Medium,Completed,5.9,2026-07-21
+WO-1036,2026-07-10,Kelowna,Evergreen Manufacturing,Jordan Smith,Electric Forklift,Medium,Completed,4.5,2026-07-10
+WO-1037,2026-07-05,Kelowna,Summit Foods,Jamie Wilson,Reach Truck,High,Open,7.2,
+WO-1038,2026-07-23,Prince George,ABC Logistics,Morgan Lee,Electric Forklift,Low,Completed,1.6,2026-07-28
+WO-1039,2026-07-04,Prince George,Valley Produce,Morgan Lee,Reach Truck,Medium,Open,6.2,
+WO-1040,2026-07-07,Vernon,Mountain Equipment Depot,Avery Miller,Reach Truck,Low,In Progress,7.3,
+WO-1041,2026-07-03,Kelowna,ABC Logistics,Jamie Wilson,Diesel Forklift,Medium,Completed,2.6,2026-07-05
+WO-1042,2026-07-24,Penticton,Mountain Equipment Depot,Alex Chen,Electric Forklift,High,Completed,7.6,2026-07-29
+WO-1043,2026-07-29,Vernon,Western Wholesale,Taylor Brown,Pallet Jack,High,Completed,3.0,2026-07-29
+WO-1044,2026-07-29,Kelowna,Interior Building Supply,Chris Johnson,Diesel Forklift,Medium,Open,3.3,
+WO-1045,2026-07-18,Penticton,Western Wholesale,Taylor Brown,Diesel Forklift,Low,Open,8.3,
+WO-1046,2026-07-26,Kelowna,Valley Produce,Jamie Wilson,Pallet Jack,Low,Completed,7.4,2026-07-29
+WO-1047,2026-07-26,Kelowna,OK Cold Storage,Alex Chen,Pallet Jack,Medium,Completed,7.0,2026-07-27
+WO-1048,2026-07-15,Kamloops,ABC Logistics,Chris Johnson,Pallet Jack,Medium,Completed,7.4,2026-07-16
+WO-1049,2026-07-31,Vernon,Mountain Equipment Depot,Cameron Davis,Order Picker,Medium,In Progress,0.7,
+WO-1050,2026-07-29,Kamloops,Western Wholesale,Morgan Lee,Electric Forklift,High,Open,4.0,
+WO-1051,2026-07-24,Penticton,Western Wholesale,Jordan Smith,Pallet Jack,Low,In Progress,2.0,
+WO-1052,2026-07-02,Kelowna,Mountain Equipment Depot,Chris Johnson,Reach Truck,Medium,In Progress,8.1,
+WO-1053,2026-07-30,Kelowna,Pacific Distribution,Morgan Lee,Pallet Jack,Medium,Completed,6.1,2026-08-01
+WO-1054,2026-07-18,Penticton,Valley Produce,Morgan Lee,Pallet Jack,Medium,Completed,0.5,2026-07-21
+WO-1055,2026-07-10,Prince George,Interior Building Supply,Avery Miller,Pallet Jack,Medium,Completed,2.2,2026-07-14
+WO-1056,2026-07-16,Kamloops,NorthStar Warehousing,Morgan Lee,Order Picker,Medium,In Progress,5.5,
+WO-1057,2026-07-03,Kamloops,Pacific Distribution,Chris Johnson,Diesel Forklift,High,In Progress,0.9,
+WO-1058,2026-07-16,Penticton,OK Cold Storage,Chris Johnson,Pallet Jack,Medium,Completed,2.5,2026-07-16
+WO-1059,2026-07-21,Kelowna,OK Cold Storage,Chris Johnson,Diesel Forklift,Low,In Progress,6.1,
+WO-1060,2026-07-15,Kelowna,Evergreen Manufacturing,Taylor Brown,Pallet Jack,Medium,Completed,8.4,2026-07-16
+WO-1061,2026-07-20,Prince George,Mountain Equipment Depot,Cameron Davis,Order Picker,Medium,Completed,1.8,2026-07-23
+WO-1062,2026-07-28,Kamloops,Pacific Distribution,Avery Miller,Diesel Forklift,Medium,Completed,1.1,2026-07-30
+WO-1063,2026-07-10,Vernon,Mountain Equipment Depot,Jordan Smith,Diesel Forklift,High,Completed,3.6,2026-07-12
+WO-1064,2026-07-05,Kelowna,OK Cold Storage,Cameron Davis,Reach Truck,Medium,In Progress,3.8,
+WO-1065,2026-07-07,Penticton,Western Wholesale,Alex Chen,Order Picker,Medium,In Progress,0.5,
+WO-1066,2026-07-12,Penticton,Mountain Equipment Depot,Chris Johnson,Pallet Jack,Medium,Completed,4.0,2026-07-15
+WO-1067,2026-07-01,Penticton,Valley Produce,Avery Miller,Diesel Forklift,Low,Completed,4.8,2026-07-06
+WO-1068,2026-07-30,Kelowna,NorthStar Warehousing,Cameron Davis,Diesel Forklift,Low,Completed,2.0,2026-08-03
+WO-1069,2026-07-09,Penticton,Interior Building Supply,Jamie Wilson,Pallet Jack,Medium,Completed,8.1,2026-07-10
+WO-1070,2026-07-14,Penticton,ABC Logistics,Alex Chen,Reach Truck,Medium,Completed,1.0,2026-07-14
+WO-1071,2026-07-31,Kelowna,Summit Foods,Chris Johnson,Electric Forklift,Medium,In Progress,2.4,
+WO-1072,2026-07-16,Prince George,Summit Foods,Avery Miller,Reach Truck,Low,In Progress,1.8,
+WO-1073,2026-07-20,Kelowna,Valley Produce,Morgan Lee,Electric Forklift,Medium,Open,7.9,
+WO-1074,2026-07-19,Penticton,OK Cold Storage,Chris Johnson,Electric Forklift,Medium,In Progress,7.1,
+WO-1075,2026-07-08,Prince George,NorthStar Warehousing,Alex Chen,Reach Truck,Medium,Completed,5.8,2026-07-10
+WO-1076,2026-07-03,Kelowna,OK Cold Storage,Avery Miller,Electric Forklift,Medium,Completed,3.4,2026-07-05
+WO-1077,2026-07-29,Kamloops,OK Cold Storage,Taylor Brown,Order Picker,Low,In Progress,2.7,
+WO-1078,2026-07-26,Penticton,Evergreen Manufacturing,Cameron Davis,Order Picker,Medium,Open,7.3,
+WO-1079,2026-07-27,Vernon,Evergreen Manufacturing,Chris Johnson,Pallet Jack,Medium,Open,5.8,
+WO-1080,2026-07-11,Kamloops,Evergreen Manufacturing,Chris Johnson,Reach Truck,Low,Completed,3.2,2026-07-13
+WO-1081,2026-07-29,Prince George,ABC Logistics,Chris Johnson,Electric Forklift,Medium,Completed,3.8,2026-07-31
+WO-1082,2026-07-18,Penticton,Evergreen Manufacturing,Avery Miller,Electric Forklift,High,In Progress,2.3,
+WO-1083,2026-07-23,Prince George,Interior Building Supply,Avery Miller,Order Picker,Medium,Completed,3.9,2026-07-28
+WO-1084,2026-07-24,Penticton,Pacific Distribution,Morgan Lee,Reach Truck,Medium,Completed,6.3,2026-07-26
+WO-1085,2026-07-11,Kamloops,Summit Foods,Chris Johnson,Pallet Jack,Medium,Completed,5.2,2026-07-15
+WO-1086,2026-07-25,Kelowna,Summit Foods,Morgan Lee,Diesel Forklift,Medium,Completed,2.9,2026-07-27
+WO-1087,2026-07-23,Kelowna,ABC Logistics,Morgan Lee,Diesel Forklift,Medium,Completed,6.5,2026-07-25
+WO-1088,2026-07-04,Prince George,Pacific Distribution,Avery Miller,Pallet Jack,Medium,Open,2.0,
+WO-1089,2026-07-02,Kelowna,NorthStar Warehousing,Cameron Davis,Pallet Jack,High,Completed,5.5,2026-07-05
+WO-1090,2026-07-02,Vernon,NorthStar Warehousing,Chris Johnson,Electric Forklift,Medium,Completed,3.8,2026-07-06
+WO-1091,2026-07-20,Kamloops,Mountain Equipment Depot,Cameron Davis,Pallet Jack,Low,In Progress,2.9,
+WO-1092,2026-07-19,Vernon,Western Wholesale,Alex Chen,Order Picker,Low,Open,1.3,
+WO-1093,2026-07-25,Vernon,NorthStar Warehousing,Taylor Brown,Diesel Forklift,High,Completed,1.1,2026-07-26
+WO-1094,2026-07-01,Prince George,Evergreen Manufacturing,Morgan Lee,Electric Forklift,Medium,Completed,6.2,2026-07-06
+WO-1095,2026-07-23,Kelowna,Summit Foods,Morgan Lee,Order Picker,Medium,Open,8.0,
+WO-1096,2026-07-14,Kamloops,Pacific Distribution,Taylor Brown,Electric Forklift,High,Completed,6.8,2026-07-15
+WO-1097,2026-07-20,Prince George,Pacific Distribution,Avery Miller,Electric Forklift,Medium,In Progress,2.9,
+WO-1098,2026-07-13,Prince George,Mountain Equipment Depot,Avery Miller,Pallet Jack,High,Open,0.8,
+WO-1099,2026-07-14,Prince George,Pacific Distribution,Alex Chen,Electric Forklift,Medium,In Progress,5.9,
+WO-1100,2026-07-28,Vernon,Western Wholesale,Alex Chen,Diesel Forklift,Medium,Completed,5.7,2026-07-28
