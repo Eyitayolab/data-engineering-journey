@@ -55,3 +55,15 @@ Number of columns in the dataframe: 10
 ## Data Safety
 
 Treat `liftflow_work_orders.csv` as the source dataset. Save transformed or analyzed results to a separate output file rather than overwriting the source data.
+
+## Code overview
+
+- `Liftflow Project 1.py` exposes two small helpers:
+	- `load_data(path: str) -> pd.DataFrame` — loads the CSV and is easy to test.
+	- `summarize_df(df: pd.DataFrame) -> Tuple[int, int]` — returns (rows, cols).
+- The `main()` function prints a preview, the shape, dtypes, missing-value counts, and the tail.
+- These functions have docstrings and type hints — prefer calling them in tests or other modules instead of copying library internals into this file.
+
+## Contributors
+
+- Oluwaseun Ojo — author, dataset creator
