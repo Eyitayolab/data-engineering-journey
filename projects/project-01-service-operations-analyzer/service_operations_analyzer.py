@@ -7,6 +7,7 @@ Exported helpers are small and typed to make the code easier to test
 and to provide useful hover/type information in IDEs.
 """
 
+from pathlib import Path
 from typing import Tuple
 
 import pandas as pd
@@ -15,11 +16,11 @@ import pandas as pd
 # ----------------
 # Data helpers
 # ----------------
-def load_data(path: str) -> pd.DataFrame:
+def load_data(path: Path | str) -> pd.DataFrame:
 	"""Load a CSV file into a pandas DataFrame.
 
 	Args:
-		path: Path to the CSV file.
+		path: Path or string to the CSV file.
 
 	Returns:
 		A pandas DataFrame containing the loaded data.
@@ -37,8 +38,13 @@ def summarize_df(df: pd.DataFrame) -> Tuple[int, int]:
 # Main explorer
 # ----------------
 def main() -> None:
-	# Load the dataset from the project root
-	df = load_data("liftflow_work_orders.csv")
+	# Resolve CSV path relative to this script and load
+	project_dir = Path(__file__).resolve().parent
+	csv_path = project_dir / "liftflow_work_orders.csv"
+	if not csv_path.exists():
+		raise FileNotFoundError(f"Dataset not found at {csv_path}")
+
+	df = load_data(csv_path)
 
 	# Quick preview: first five rows
 	print(df.head())
